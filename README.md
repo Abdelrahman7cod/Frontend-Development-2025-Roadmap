@@ -30,18 +30,36 @@ From login forms to dashboards, it’s **where design meets code**!
 ---
 
 ## 🌐 HTML  
+HTML stands for Hypertext Markup Language. It is the foundational markup language used to build web pages and is considered the building block of the web. HTML is relatively easy to learn and comprehend, enabling you to create basic websites.
 
+- [Learn HTML - Elzero Web School 📄](https://elzero.org/learn-html/) 
 - [Learn HTML - Elzero](https://elzero.org/learn-html/)  
 - [HTML Tutorial - W3Schools](https://www.w3schools.com/html/)  
 - [HTML Best Practices](https://github.com/hail2u/html-best-practices)  
+- [MDN - HTML 📄](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 
 ---
 
 ## 🎨 CSS  
+CSS (Cascading Style Sheets) is the technology you learn after HTML. It is used for styling HTML elements. With CSS, you can style your content, control spacing, add colors, fonts, and more to make websites look visually appealing.
 
+- [Learn CSS - Elzero Web School 📄](https://elzero.org/learn-css/) 
+-  [MDN - CSS 📄](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 - [CSS Crash Course - Dave Grey](https://youtu.be/n4R2E7O-Ngo)  
 - [Learn Responsive Design - Web.dev](https://web.dev/learn/design/)  
 - [Awesome CSS Resources](https://github.com/FADL285/Awesome-CSS-Learning)  
+
+### **📝 The basics of CSS you need to learn:**
+
+
+
+- **Basics, Box Model, Colors & Gradients, Units** ➡️ [CSS Fundamentals 📄](https://frontendmasters.com/guides/learning-roadmap/css-fundamentals)
+- **Flow, Positioning, Floats, Flexbox, Grids** ➡️ [CSS Layout 📄](https://frontendmasters.com/guides/learning-roadmap/css-layout/)
+- **Responsive Design & Media Queries** ➡️ [CSS Media Queries 📄](https://frontendmasters.com/guides/learning-roadmap/css-media-queries/)
+- **Animations** ➡️ [CSS Transitions, Transforms & Animations 📄](https://frontendmasters.com/guides/learning-roadmap/css-transitions-transforms-animations/)
+- **Web Fonts, CSS Icons, Google Fonts** ➡️ [CSS Fonts & Icons 📄](https://frontendmasters.com/guides/learning-roadmap/css-fonts-and-icons/)
+- **CSS Variables & Best Practices** ➡️ [CSS Practices 📄](https://frontendmasters.com/guides/learning-roadmap/css-practices/)
+  
 
 ---
   ## HTML & CSS - (Resources & Practice)
