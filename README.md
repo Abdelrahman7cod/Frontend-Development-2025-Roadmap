@@ -24,7 +24,18 @@ From login forms to dashboards, it’s **where design meets code**!
 ---
 
 ## 🛠️ Before You Start  
+Learn about:
+- 🌐 The Internet & WWW  
+- 📡 How the Internet works  
+- 🔗 HTTP / HTTPS  
+- 🖥️ Browsers and rendering engines  
+- 🛠️ DNS, Domains, and Hosting  
 
+📚 **Resources:**  
+- [How does the Internet work? (MDN)](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)  
+- [What is HTTP? (Cloudflare)](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/)  
+- [How Browsers Work (web.dev)](https://web.dev/howbrowserswork/)  
+- [What is DNS?](https://www.cloudflare.com/learning/dns/what-is-dns/)  
 
 
 ---
